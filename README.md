@@ -3,7 +3,7 @@
 🔭 I’m currently working on 
 
 
-[![stearnsbq's GitHub stats](https://github-readme-stats.vercel.app/api?username=stearnsbq)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![stearnsbq's GitHub stats](https://github-readme-stats.vercel.app/api?username=stearnsbq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
