@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Welcome to my GitHub Page!, I am a 22 year old Full Stack Developer, currently looking for remote work nationwide and local work in the Virginia Region.</p>
+<p>Welcome to my GitHub Page!, I am a 22 year old Full Stack Developer, currently looking for remote work nationwide and local work in the Virginia region.</p>
 
 
 - 🔭 I’m currently working on **ScreenHive**
