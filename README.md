@@ -4,8 +4,10 @@
 
 
 - 🔭 I’m currently working on **ScreenHive**
+- 🌱 I’m currently learning **Kubernetes**
 - 🌱 I’m currently learning **Go**
 - 🌱 I’m currently learning **.NET Core + React Full Stack**
+
 
 
 [![stearnsbq's GitHub stats](https://github-readme-stats.vercel.app/api?username=stearnsbq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
