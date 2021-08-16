@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working on **ScreenHive**
+- 🔭 I’m currently rebuilding my **Portfolio**
 - 🌱 I’m currently learning **Kubernetes**
 - 🌱 I’m currently learning **Go**
 - 🌱 I’m currently learning **.NET Core + React Full Stack**
